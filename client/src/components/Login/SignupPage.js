@@ -79,7 +79,7 @@ class SignupPage extends React.Component {
                 username: '',
                 password: '',
                 confirmPassword: '',
-                attribute: ''
+                attribute: 'User'
             }
         });
     }
